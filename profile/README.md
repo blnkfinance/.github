@@ -11,3 +11,8 @@ We believe developers have a direct impact on the quality of fintech products th
 - [Blnk Ledger](https://github.com/blnkledger/blnk)
 - [Blnk Cloud](https://blnkfinance.com)
 - Blnk Plugins
+
+## Learn More
+
+- [Developer Documentation](https://docs.blnkledger.com)
+- [Discord Community](https://discord.gg/7WNv94zPpx)
