@@ -1,4 +1,4 @@
-![Blnk logo](https://res.cloudinary.com/dmxizylxw/image/upload/v1719884842/blnk-github-logo_twgk1x.png)
+![Blnk logo](https://res.cloudinary.com/dmxizylxw/image/upload/v1724847013/blnk_github_pnmhmq.png)
 
 ## Welcome to Blnk
 
